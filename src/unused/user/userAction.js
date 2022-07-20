@@ -1,0 +1,4 @@
+export const ActionTypes = {
+    SET_STUDENT_DETAIL : "SET_STUDENT_DETAIL",
+    GET_STUDENT_DETAIL : "GET_STUDENT_DETAIL"
+}

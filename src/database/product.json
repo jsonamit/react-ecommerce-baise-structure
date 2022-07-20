@@ -1,0 +1,56 @@
+[
+    {
+        "id" : 1,
+        "title" : "MAC LAPTOP",
+        "subtitle" : "Apple pro display XDR",
+        "accessories" : "Pro Display XDR",
+        "price" : 5999,
+        "quantity":1,
+        "img" : "https://mdbcdn.b-cdn.net/img/Photos/Horizontal/E-commerce/Products/3.webp"
+    },
+    {
+        "id" : 2,
+        "title" : "MAC CHARGER",
+        "subtitle" : "Apple pro display XDR",
+        "accessories" : "Pro Display XDR",
+        "price" : 999,
+        "quantity":1,
+        "img" : "https://mdbcdn.b-cdn.net/img/Photos/Horizontal/E-commerce/Products/3.webp"
+    },
+    {
+        "id" : 3,
+        "title" : "MAC HEAD PHONE",
+        "subtitle" : "Apple pro display XDR",
+        "accessories" : "Pro Display XDR",
+        "price" : 59,
+        "quantity":1,
+        "img" : "https://mdbcdn.b-cdn.net/img/Photos/Horizontal/E-commerce/Products/3.webp"
+    },
+    {
+        "id" : 4,
+        "title" : "MAC USB CABLE",
+        "subtitle" : "Apple pro display XDR",
+        "accessories" : "Pro Display XDR",
+        "price" : 599,
+        "quantity":1,
+        "img" : "https://mdbcdn.b-cdn.net/img/Photos/Horizontal/E-commerce/Products/3.webp"
+    },
+    {
+        "id" : 5,
+        "title" : "MAC AIR PRO LAPTOP",
+        "subtitle" : "Apple pro display XDR",
+        "accessories" : "Pro Display XDR",
+        "price" : 5999,
+        "quantity":1,
+        "img" : "https://mdbcdn.b-cdn.net/img/Photos/Horizontal/E-commerce/Products/3.webp"
+    },
+    {
+        "id" : 6,
+        "title" : "MAC PRO CHARGER",
+        "subtitle" : "Apple pro display XDR",
+        "accessories" : "Pro Display XDR",
+        "price" : 99,
+        "quantity":1,
+        "img" : "https://mdbcdn.b-cdn.net/img/Photos/Horizontal/E-commerce/Products/3.webp"
+    }
+]
